@@ -7,3 +7,6 @@ Datasets
 
 Torchtext
 `conda install -c pytorch torchtext`
+
+Matplotlib
+`conda install matplotlib`
