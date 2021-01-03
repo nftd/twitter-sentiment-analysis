@@ -1,5 +1,8 @@
 # twitter-sentiment-analysis
-Sentiment classification of twits
+Sentiment classification of twits.
+
+# Project
+The code is at `notebooks/basic-code.ipynb`
 
 ## python libraries
 Datasets
